@@ -1,0 +1,27 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    float: center;
+}
+
+.wrapper{
+    background-color: rgb(68, 184, 120);
+    border: black solid 1px;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 500; 
+    color: red;
+    padding: 15px 15px 15px 15px;
+}
+
+h2{
+    color: blueviolet;
+}
+
+p{
+    padding: 15px;
+}
